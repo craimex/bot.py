@@ -1,7 +1,7 @@
 import telebot
 from telebot import types
 
-token = "6526772250:AAGPy8XUSGUtPZ7AO8VdFaDJ6NBTvwQQJkY"
+token = ""
 bot = telebot.TeleBot(token)
 
 player_states = {}
